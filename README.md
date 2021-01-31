@@ -39,7 +39,7 @@ Windows
 $ python3 get_tweet.py
 
 ```
-[Alt Text](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-11-24.gif)
+![Alt Text]](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-11-24.gif)
 
 ## E o notebook ?
 
@@ -48,6 +48,6 @@ $ python3 get_tweet.py
 $ jupyter-lab
 
 ```
-[Alt Text](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-15-48.gif)
+![Alt Text](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-15-48.gif)
 
     
