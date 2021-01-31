@@ -6,7 +6,7 @@
 
 ---
 
-Consiste em web crawling é usado para indexar as informações em uma página web usando bots, também chamados de crawlers. Web Crawlers são basicamente utilizados pelos principais motores de busca como o Google, Bing e Yahoo. No nosso caso estamos usando API do twitter que disponibiliza parte dos dados da rede social, em nosso caso estamos usando para extrair dados de tweets de um termo específico. O arquivo python usamos para extrair os dados da rede social e no jupyter notebook usamos para explorar, transformar os nossos dados e fazer a ingestão desses dados no PostgreSQL.
+Consiste em web crawling que é usado para indexar as informações em uma página web usando bots, também chamados de crawlers. Web Crawlers são basicamente utilizados pelos principais motores de busca como o Google, Bing e Yahoo. No nosso caso estamos usando API do twitter que disponibiliza parte dos dados da rede social, em nosso caso estamos usando para extrair dados de tweets de um termo específico. O arquivo python usamos para extrair os dados da rede social e no jupyter notebook usamos para explorar, transformar os nossos dados e fazer a ingestão desses dados no PostgreSQL.
 
 ## Requisitos
 
