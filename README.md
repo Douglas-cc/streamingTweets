@@ -1,7 +1,7 @@
 #  Streaming de Tweets
 
 <p align="center">
-  <img src="https://rockcontent.com/wp-content/uploads/2018/06/web_crawler.png"/>
+  <img src="https://www.scraping-bot.io/wp-content/uploads/2020/03/Spider-Crawlerweb-shine.png"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Windows
 $ python3 get_tweet.py
 
 ```
-![Alt Text]](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-11-24.gif)
+![Alt Text](https://github.com/Douglas-cc/streaming-de-tweets/blob/main/2021-01-30%2021-11-24.gif)
 
 ## E o notebook ?
 
