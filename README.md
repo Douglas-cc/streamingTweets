@@ -10,22 +10,20 @@ Consiste em web crawling que é usado para indexar as informações em uma pági
 
 ## Requisitos
 
-Tenha uma conta ativa no ambiente do twitter para desenvolvedores. Uma vez que sua solicitação é aceita e você já possue sua conta de desenvolvimento ativa, você precisa ir no Dashboard de sua conta e criar um App. Ao criar um App vinculado a sua conta, o Twitter irá gerar credenciais que serão usadas para realizar as chamadas à API deles, então guardem bem essas credencias e não compartilhem na internet. Link abaixo:
-
-https://developer.twitter.com/en
+Tenha uma conta ativa no ambiente do twitter para desenvolvedores. Uma vez que sua solicitação é aceita e você já possue sua conta de desenvolvimento ativa, você precisa ir no Dashboard de sua conta e criar um App. Ao criar um App vinculado a sua conta, o Twitter irá gerar credenciais que serão usadas para realizar as chamadas à API deles, então guardem bem essas credencias e não compartilhem na internet: https://developer.twitter.com/en
 
 Você precisará de python 3.9 (ou superior) e do gerenciador de pacotes pip.
 
 O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais). Para isto, execute os comandos como no exemplo abaixo:
 
-Linux/macos
+## Linux/macos
 
     pip3 install virtualenv
     virtualenv ../venv -p python3
     source ../venv/bin/activate 
     pip install -r requirements.txt
 
-Windows
+## Windows
 
     pip3 install virtualenv
     virtualenv ..\venv -p python3
