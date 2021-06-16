@@ -10,7 +10,7 @@ Consiste em web crawling que é usado para indexar as informações em uma pági
 
 ## Requisitos
 
-A precisa ter, primeiramente, uma conta ativa no ambiente do twitter para desenvolvedores. Uma vez que sua solicitação é aceita e você já possue sua conta de desenvolvimento ativa, você precisa ir no Dashboard de sua conta e criar um App. Ao criar um App vinculado a sua conta, o Twitter irá gerar credenciais que serão usadas para realizar as chamadas à API deles, então guardem bem essas credencias e não compartilhem na internet. Link abaixo:
+Tenha uma conta ativa no ambiente do twitter para desenvolvedores. Uma vez que sua solicitação é aceita e você já possue sua conta de desenvolvimento ativa, você precisa ir no Dashboard de sua conta e criar um App. Ao criar um App vinculado a sua conta, o Twitter irá gerar credenciais que serão usadas para realizar as chamadas à API deles, então guardem bem essas credencias e não compartilhem na internet. Link abaixo:
 
 https://developer.twitter.com/en
 
